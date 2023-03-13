@@ -1,0 +1,7 @@
+__pycache__
+.venv
+remote.txt
+downloads/*
+tmp
+*.pyc
+*.csv.gz
